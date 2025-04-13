@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignorar tudo
+*
+!analise_exploratoria_de_dados.ipynb
+!.gitignore
+!README.md
