@@ -1,4 +1,4 @@
-# Ignorar arquivos e pasta locais
+# Ignorar arquivos e pasta
 
 *
 !*.ipynb
