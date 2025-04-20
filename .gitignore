@@ -1,3 +1,10 @@
+# Ignorar arquivos e pasta locais
+
+*
+!*.ipynb
+!.gitignore
+!README.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,10 +179,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-
-# Ignorar tudo
-*
-!analise_exploratoria_de_dados.ipynb
-!.gitignore
-!README.md
