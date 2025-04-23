@@ -1,5 +1,4 @@
 # Ignorar arquivos e pasta
-
 *
 !*.ipynb
 !.gitignore
